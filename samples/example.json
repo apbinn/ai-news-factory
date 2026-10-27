@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-10-27",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-10-27T08:44:00+08:00",
+  "news": [
+    {
+      "news_id": "20261027-EXAMPLE",
+      "title": "示例：AI 新工具资讯（虚构，仅测试）",
+      "category": "AI 工具",
+      "summary": "这是一条虚构数据，只用于校验系统的导入、审核和视频流程。不可用于新闻发布。",
+      "source_name": "示例来源",
+      "source_url": "https://example.com/news",
+      "evidence_urls": [
+        "https://example.com/news"
+      ],
+      "verification_status": "unverified"
+    }
+  ]
+}
